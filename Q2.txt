@@ -1,0 +1,3 @@
+El comando `npm init` se utiliza para crear un archivo `package.json`, que contiene información esencial del proyecto 
+como el nombre, la versión, las dependencias y otros metadatos. Este archivo es utilizado por npm para gestionar el proyecto
+y sus dependencias de manera eficiente.
