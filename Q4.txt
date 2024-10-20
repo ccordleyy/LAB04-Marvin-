@@ -1,0 +1,9 @@
+¿Cómo elimino una rama creada en git?
+Para eliminar una rama en git, se usa el comando `git branch -d <nombre_de_la_rama>`.
+
+¿Por qué debería de usar la ramificación en proyectos?
+Las ramas permiten trabajar en diferentes funcionalidades de forma aislada sin afectar 
+la rama principal del proyecto. Facilitan el trabajo colaborativo y las pruebas sin riesgo.
+
+Recibiste un ticket [SEM-005]. ¿Qué nombre pondrías a la rama al crearla para el PR?
+Usaría el nombre `feature/SEM-005`.
